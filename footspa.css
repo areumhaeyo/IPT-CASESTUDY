@@ -80,7 +80,7 @@ nav a{
 }
 a:link {
     color: black;
-    font-family: 'Times New Roman';
+    /* font-family: 'Times New Roman'; */ font-family: 'Aboreto';
     text-decoration: none;
   }
   
